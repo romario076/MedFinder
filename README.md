@@ -58,4 +58,3 @@ docker run --name container_name -p 8000:8000 image_name
 For local use working with drugs.com website. For AWS usage works only with: webmd.com.
 
 For not local usage neccessary to provide SERP API keys.
->>>>>>> MedFinder/master
