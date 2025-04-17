@@ -1,0 +1,8 @@
+Medication,description,active_ingredient,side_effects,therapeutic_effect,positive_reviews,negative_reviews,rating,URL
+Ibuprofen,Nonsteroidal anti-inflammatory drug (NSAID),Ibuprofen,"Stomach pain, heartburn, nausea, dizziness, mild headache","Pain relief, fever reduction, anti-inflammatory",852,324,7.2,https://www.drugs.com/ibuprofen.html
+Naproxen,Nonsteroidal anti-inflammatory drug (NSAID),Naproxen,"Stomach pain, heartburn, nausea, headache, drowsiness","Pain relief, inflammation reduction",763,289,7.0,https://www.drugs.com/naproxen.html
+Aspirin,Salicylate NSAID,Acetylsalicylic acid,"Stomach upset, bleeding risk, ringing in ears","Pain relief, fever reduction, blood clot prevention",684,198,7.4,https://www.drugs.com/aspirin.html
+Celecoxib,COX-2 selective NSAID,Celecoxib,"Stomach pain, headache, high blood pressure",Pain and inflammation relief,592,245,6.8,https://www.drugs.com/celecoxib.html
+Diclofenac,Nonsteroidal anti-inflammatory drug,Diclofenac sodium,"Stomach pain, headache, dizziness, rash",Pain and inflammation reduction,524,187,7.1,https://www.drugs.com/diclofenac.html
+Meloxicam,Nonsteroidal anti-inflammatory drug,Meloxicam,"Stomach pain, diarrhea, gas, dizziness",Pain and inflammation relief,612,234,6.9,https://www.drugs.com/meloxicam.html
+Ketoprofen,Nonsteroidal anti-inflammatory drug,Ketoprofen,"Stomach pain, heartburn, dizziness, headache",Pain and inflammation reduction,428,165,6.7,https://www.drugs.com/ketoprofen.html

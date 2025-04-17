@@ -1,0 +1,8 @@
+pandas
+plotly
+pydantic_ai==0.0.24
+langchain
+langchain_aws
+streamlit
+nest_asyncio
+googlesearch-python
