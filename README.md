@@ -36,10 +36,7 @@ python -m playwright install --with-deps chromium
 ### Run application:
 ```
 sreamlit run ui.py
-<<<<<<< HEAD
-=======
 ```
->>>>>>> MedFinder/master
 
 <hr>
 
