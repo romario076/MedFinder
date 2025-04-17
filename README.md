@@ -51,9 +51,6 @@ docker build -t image_name .
 #### Run container
 ```
 docker run --name container_name -p 8000:8000 image_name
-<<<<<<< HEAD
-```
-=======
 ```
 
 <hr>
